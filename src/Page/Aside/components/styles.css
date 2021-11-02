@@ -1,0 +1,11 @@
+.line-false {
+    height: 500px;
+    border-left: 3px ridge #E0E0E0;
+    outline: none;
+}
+
+.line-true {
+    height: 500px;
+    border-left: 3px ridge #8402C1;
+    outline: none;
+}
